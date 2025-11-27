@@ -71,8 +71,8 @@ See `kafka_setup/` folder for full guide:
 ### 2. Run Producer & Consumer
 Open the Jupyter notebooks:
 ```bash
-jupyter lab producer.ipynb
-jupyter lab consumer_s3.ipynb
+jupyter lab Kafka_producer.ipynb
+jupyter lab Kafka_consumer.ipynb
 ```
 
 Make sure:
